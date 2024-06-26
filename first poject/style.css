@@ -18,10 +18,6 @@ body::-webkit-scrollbar-thumb{
     border-radius: 10px;
 }
 
-
-body::-webkit-scrollbar{
-}
-
 *::selection{
     background-color: #fff;
     color: #95C11E;
