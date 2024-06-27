@@ -160,9 +160,10 @@ video{
     -webkit-text-stroke: 2px #95C11E;
     color: transparent;
     margin-right: 30PX;
+    z-index: 99;
 }
 
-h4:hover{
+.scroller h4:hover{
     color: #95C11E;
 }
 
